@@ -1,0 +1,348 @@
+# ============================================
+# Backend (Python/FastAPI)
+# ============================================
+
+# Virtual Environment
+backend/venv/
+backend/env/
+backend/.venv/
+backend/.env/
+backend/ENV/
+backend/env.bak/
+backend/venv.bak/
+
+# Python
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/*.so
+backend/.Python
+backend/build/
+backend/develop-eggs/
+backend/dist/
+backend/downloads/
+backend/eggs/
+backend/.eggs/
+backend/lib/
+backend/lib64/
+backend/parts/
+backend/sdist/
+backend/var/
+backend/wheels/
+backend/pip-wheel-metadata/
+backend/share/python-wheels/
+backend/*.egg-info/
+backend/.installed.cfg
+backend/*.egg
+backend/MANIFEST
+
+# Database
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+backend/EduBit.db
+backend/app.db
+
+# Environment Variables
+backend/.env
+backend/.env.local
+backend/.env.*.local
+
+# PyTest
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+
+# Jupyter Notebook
+backend/.ipynb_checkpoints
+
+# pyenv
+backend/.python-version
+
+# Logs
+backend/*.log
+backend/logs/
+
+# Temporary files
+backend/temp/
+backend/tmp/
+backend/*.tmp
+
+
+# ============================================
+# Frontend (React/Vite)
+# ============================================
+
+# Dependencies
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+
+# Build output
+frontend/dist/
+frontend/build/
+frontend/.next/
+frontend/out/
+
+# Environment Variables
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+
+# Testing
+frontend/coverage/
+frontend/.nyc_output
+
+# Vite
+frontend/.vite/
+frontend/vite.config.js.timestamp-*
+frontend/vite.config.ts.timestamp-*
+
+# TypeScript
+frontend/*.tsbuildinfo
+
+# Temporary files
+frontend/.cache/
+frontend/.temp/
+frontend/.tmp/
+
+
+# ============================================
+# IDE & Editors
+# ============================================
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vscode/settings.json
+.history
+
+# JetBrains IDEs (PyCharm, WebStorm, IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+
+# ============================================
+# OS Specific
+# ============================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+
+
+# ============================================
+# Project Specific
+# ============================================
+
+# Uploaded media (if storing locally - but you use Cloudinary)
+backend/uploads/
+backend/media/
+frontend/public/uploads/
+
+# Test files
+*.test.ts.snap
+*.spec.ts.snap
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# API keys and secrets (double-check these are ignored!)
+**/secrets.json
+**/*secret*.json
+**/credentials.json
+
+
+
+# ============================================
+# Dependencies
+# ============================================
+node_modules/
+/.pnp
+.pnp.js
+
+# ============================================
+# Build Output
+# ============================================
+dist/
+dist-ssr/
+build/
+*.local
+
+# ============================================
+# Environment Variables
+# ============================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# ============================================
+# Logs
+# ============================================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ============================================
+# Testing
+# ============================================
+coverage/
+.nyc_output/
+*.lcov
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# ============================================
+# Vite
+# ============================================
+.vite/
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# ============================================
+# TypeScript
+# ============================================
+*.tsbuildinfo
+next-env.d.ts
+
+# ============================================
+# Editor directories and files
+# ============================================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.sublime-project
+*.sublime-workspace
+backend/source/
+# ============================================
+# OS Files
+# ============================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============================================
+# Temporary files
+# ============================================
+.cache/
+.temp/
+.tmp/
+*.tmp
+*.log
+
+# ============================================
+# Next.js (if you add it later)
+# ============================================
+.next/
+out/
+
+# ============================================
+# Storybook
+# ============================================
+storybook-static/
+
+# ============================================
+# Generated files
+# ============================================
+.vercel
+.netlify
+.firebase
+
+# ============================================
+# PWA
+# ============================================
+sw.js
+sw.js.map
+workbox-*.js
+workbox-*.js.map
+
+# ============================================
+# Source maps (optional - uncomment if needed)
+# ============================================
+# *.map
+
+# ============================================
+# Lock files (uncomment if team standardizes)
+# ============================================
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
