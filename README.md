@@ -376,40 +376,6 @@ Frontend will be available at `http://localhost:5173`
 
 This is a hackathon MVP. Feel free to fork and extend.
 
----
 
-## 🎤 5-Minute Pitch Outline
 
-### Opening Hook (30 sec)
-"Raise your hand if you've ever started a Udemy course and never finished. Now raise your hand if you've spent 2 hours on TikTok today. That's the problem we're solving."
-
-### Problem (1 min)
-- Education is stuck in 2-hour lectures
-- Social media has our attention, but not structure
-- We scroll endlessly, but learn nothing
-- Courses have structure, but no one finishes them
-
-### Solution (1.5 min)
-- **EduBit**: Instagram Reels meets Udemy
-- 30-90 second educational reels from expert creators
-- Build micro-courses, track progress, get AI quizzes
-- Learn while scrolling, but with actual outcomes
-
-### Demo (1.5 min)
-- Show feed scrolling (learner view)
-- Click into reel, get AI summary and quiz
-- Show micro-course progress tracking
-- Switch to creator view, upload reel in 30 seconds
-
-### Market & Traction (30 sec)
-- $300B global e-learning market
-- Gen Z spends 3+ hours/day on short-form video
-- Creators want monetization beyond ad revenue
-- Beta waitlist: [make up number] signups
-
-### Closing (30 sec)
-"We're not just making education shorter. We're making it addictive, social, and effective. The future of learning is 60 seconds at a time."
-
----
-
-**Built with ❤️ for the future of learning**
+**Built with ❤️ by YASH for the future of learning**
