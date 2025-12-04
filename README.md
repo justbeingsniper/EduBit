@@ -1,6 +1,6 @@
 # EduBit: Bite-Sized Learning Platform
 
-## 🎯 Product Overview
+##  Product Overview
 
 ### The Problem
 Education today is broken:
@@ -16,7 +16,7 @@ EduBit is an addictive learning platform that combines:
 - **AI-powered personalization** with summaries, quizzes, and smart feed
 - **Progress tracking** with playlists and completion metrics
 
-## 👥 User Personas
+##  User Personas
 
 ### 1. The Time-Strapped Student (Sarah, 21)
 - **Pain**: Exam prep with limited time, needs quick concept refreshers
@@ -33,30 +33,30 @@ EduBit is an addictive learning platform that combines:
 - **Needs**: Easy content creation; analytics; revenue opportunities
 - **Uses EduBit**: Uploads 60-sec concept explainers, builds courses, earns from learners
 
-## ✨ Core Features
+##  Core Features
 
 ### For Creators
-- ✅ Upload 30-90 sec educational reels with tags and difficulty levels
-- ✅ Build structured micro-courses from multiple reels
-- ✅ Track engagement metrics (views, completion, comments)
-- ✅ Engage via comments and Q&A
+-  Upload 30-90 sec educational reels with tags and difficulty levels
+-  Build structured micro-courses from multiple reels
+-  Track engagement metrics (views, completion, comments)
+-  Engage via comments and Q&A
 
 ### For Learners
-- ✅ AI-personalized learning feed (based on interests, level, history)
-- ✅ Follow creators and build custom playlists
-- ✅ Track progress across micro-courses
-- ✅ Get AI-generated summaries and quizzes for any content
-- ✅ Comment and interact with creators
+-  AI-personalized learning feed (based on interests, level, history)
+-  Follow creators and build custom playlists
+-  Track progress across micro-courses
+-  Get AI-generated summaries and quizzes for any content
+-  Comment and interact with creators
 
 ### Platform/AI
-- ✅ Smart feed algorithm (tags, difficulty, watch history)
-- ✅ Auto-generate summaries from reel content
-- ✅ Create practice quizzes with multiple-choice questions
-- ✅ Personalized recommendations
+-  Smart feed algorithm (tags, difficulty, watch history)
+-  Auto-generate summaries from reel content
+-  Create practice quizzes with multiple-choice questions
+-  Personalized recommendations
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Tech Stack
 - **Frontend**: React + Vite, TypeScript, Tailwind CSS
@@ -119,7 +119,7 @@ EduBit is an addictive learning platform that combines:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 EduBit/
@@ -182,7 +182,7 @@ EduBit/
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 ### Prerequisites
 - **Python 3.9+**
@@ -245,7 +245,7 @@ Frontend will be available at `http://localhost:5173`
 
 ---
 
-## 🎮 Usage Guide
+##  Usage Guide
 
 ### For Learners
 
@@ -294,7 +294,7 @@ Frontend will be available at `http://localhost:5173`
 
 ---
 
-## 🧪 Testing the Platform
+##  Testing the Platform
 
 ### Quick Test Flow
 
@@ -314,7 +314,7 @@ Frontend will be available at `http://localhost:5173`
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Backend Issues
 - **Error: No module named 'app'**: Make sure you're in the `backend/` directory
@@ -333,7 +333,7 @@ Frontend will be available at `http://localhost:5173`
 
 ---
 
-## 🎯 Key Differentiators
+##  Key Differentiators
 
 ### vs Instagram/TikTok
 - **Structured learning paths** (micro-courses, not just random scrolling)
@@ -352,7 +352,7 @@ Frontend will be available at `http://localhost:5173`
 
 ---
 
-## 📊 Business Strategy
+##  Business Strategy
 
 ### Target ICPs
 1. **Students (18-24)**: Exam prep, concept reinforcement, study supplements
@@ -372,7 +372,7 @@ Frontend will be available at `http://localhost:5173`
 
 ---
 
-## 📝 License & Contributing
+##  License & Contributing
 
 This is a hackathon MVP. Feel free to fork and extend.
 
